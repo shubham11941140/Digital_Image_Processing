@@ -283,3 +283,23 @@ Number with minimum decimal digits in the range (0.24123123, 0.3): 0.29
 Number with minimum decimal digits in the range (0.24123123, 0.25123124): 0.25
 Number with minimum decimal digits in the range (0.88, 0.89): 0.88
 ```
+
+### Examples to show working with output:
+
+### **Example 1: Single Channel Image as a NumPy Array**
+
+**Example with Single Channel Image**
+
+$$N = 5$$
+
+**single_channel_image**
+
+$$ = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 \end{bmatrix} $$
+
+(Change the above parameters and run the code for the output as you wish)
+
+### **Example 2: Probability Matrix with Message**
+
+### **Example 3: Probability Matrix with Message**
+
+### **Example 4: Single Channel Image as a Grayscale Image**
