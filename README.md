@@ -73,9 +73,19 @@ Shortest path of m type.
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/28b6a68f-2fcd-4b8e-ab2d-0b1c38145a54)
 
+### Output:
+
+![Q3](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/fb549788-9794-4a04-a3ee-7edc5c329437)
+
+
 ## Q4
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/7492d63c-e01b-4c6c-908c-441bd0546ca7)
+
+### Output:
+
+![Q4](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/b1f5edd5-c7fa-4212-acdf-6eb5251e2039)
+
 
 ## Q5
 
