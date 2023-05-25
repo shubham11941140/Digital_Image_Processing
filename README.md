@@ -54,6 +54,21 @@ Shortest path of m type.
 
 **The python's inbuilt function for bwconcomp is skimage.measure.label**
 
+**For Image**
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/e8e333e8-caed-4809-96a9-428999503815)
+
+### Output:
+
+**Our Algorithm**
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/ef4043a0-72a2-459f-a019-5ccf5e8dfcf5)
+
+**Library Algorithm**
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/b4eab3b9-8e46-489a-8f0a-8792633c4777)
+
+
 ## Q3
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/28b6a68f-2fcd-4b8e-ab2d-0b1c38145a54)
