@@ -15,3 +15,12 @@ This repository contains questions involving important constructs of Digital Ima
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/28b6a68f-2fcd-4b8e-ab2d-0b1c38145a54)
 
+## Q4
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/7492d63c-e01b-4c6c-908c-441bd0546ca7)
+
+## Q5
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/8b68bb81-6ad5-4c67-adc1-0802f71996ce)
+
+
