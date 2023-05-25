@@ -294,12 +294,74 @@ $$N = 5$$
 
 **single_channel_image**
 
-$$ = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 \end{bmatrix} $$
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/2734f808-eb7e-4c44-a0ee-afa742a1f26c)
 
 (Change the above parameters and run the code for the output as you wish)
 
+**Encoded Message**
+
+```
+[(0.004444122314453125, 0.004445075988769531),
+ (0.33777713775634766, 0.33777809143066406),
+ (0.6711101531982422, 0.6711111068725586),
+ (0.9375, 1.0)]
+ ```
+ **Plot of Transmitted Image**
+ 
+ ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/1ffe1816-0133-4eac-8163-265f606d1ebe)
+
+
 ### **Example 2: Probability Matrix with Message**
 
-### **Example 3: Probability Matrix with Message**
+**Example with Probability Matrix**
 
-### **Example 4: Single Channel Image as a Grayscale Image**
+$$N = 4$$
+
+**prob_matrix**
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/03681f23-4caf-4a01-861b-14977adafc46)
+
+**message** = BACD
+
+(Change the above parameters and run the code for the output as you wish)
+
+**Encoded Message**
+
+```
+[(0.2288, 0.232)]
+```
+
+ **Plot of Transmitted Image**
+ 
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/2b924874-5fdb-4ab0-8743-e544b8f72315)
+
+
+### **Example 3: Single Channel Image as a Grayscale Image**
+
+**Real Gray Scale Image**
+
+$\Rightarrow$ Encode Images produced in Question 3 and 4
+
+$$N = 4$$
+
+**single_channel_image** = Q3.png / Q4.png
+
+![Q3](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/3a833cdb-ad43-4ea9-9c06-87caff776f47)
+
+![Q4](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/bfd425d8-f73d-429f-95fc-bfa8fb2fa90e)
+
+(Change the above parameters and run the code for the output as you wish)
+
+![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/71f092f8-f57c-49fa-9367-bc9acdf7f6cc)
+
+**message** = Transmitted Image itself
+
+ **Plot of Transmitted Image (Q3)**
+ 
+ ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/572d5256-cf53-41e3-a4b6-abfa2c50f490)
+
+ 
+  **Plot of Transmitted Image (Q4)**
+  
+  ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/20205f31-5850-411b-bc12-518ace42aa57)
+
