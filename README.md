@@ -73,6 +73,14 @@ Shortest path of m type.
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/28b6a68f-2fcd-4b8e-ab2d-0b1c38145a54)
 
+**To Run the code and generate the circles in grayscale**
+
+```
+
+python3 Q3_Test_Script.py
+
+```
+
 ### Output:
 
 ![Q3](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/fb549788-9794-4a04-a3ee-7edc5c329437)
@@ -81,6 +89,14 @@ Shortest path of m type.
 ## Q4
 
 ![image](https://github.com/shubham11941140/Digital_Image_Processing/assets/63910248/7492d63c-e01b-4c6c-908c-441bd0546ca7)
+
+**To Run the code and generate the rectangles in grayscale**
+
+```
+
+python3 Q4_Test_Script.py
+
+```
 
 ### Output:
 
